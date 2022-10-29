@@ -7,14 +7,6 @@
   text-shadow: 4px 4px #ff0000;
 }
 
-.sub-title {
-  font-size: 50px;
-  text-align: center;
-  font-family: cursive;
-  text-transform: capitalize;
-}
-
-
 html {
   font-size: 10px;
   background: url('images/background2.jpg') bottom center;
